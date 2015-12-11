@@ -1,0 +1,10 @@
+c:\users\caio\documents\visual studio 2013\Projects\foolytrans\foolytrans\bin\Debug\foolytrans.exe.config
+c:\users\caio\documents\visual studio 2013\Projects\foolytrans\foolytrans\obj\Debug\foolytrans.csprojResolveAssemblyReference.cache
+c:\users\caio\documents\visual studio 2013\Projects\foolytrans\foolytrans\obj\Debug\foolytrans.Properties.Resources.resources
+c:\users\caio\documents\visual studio 2013\Projects\foolytrans\foolytrans\obj\Debug\foolytrans.csproj.GenerateResource.Cache
+c:\users\caio\documents\visual studio 2013\Projects\foolytrans\foolytrans\bin\Debug\foolytrans.exe
+c:\users\caio\documents\visual studio 2013\Projects\foolytrans\foolytrans\bin\Debug\foolytrans.pdb
+c:\users\caio\documents\visual studio 2013\Projects\foolytrans\foolytrans\bin\Debug\Interop.PortableDeviceApiLib.dll
+c:\users\caio\documents\visual studio 2013\Projects\foolytrans\foolytrans\bin\Debug\Interop.PortableDeviceTypesLib.dll
+c:\users\caio\documents\visual studio 2013\Projects\foolytrans\foolytrans\obj\Debug\foolytrans.exe
+c:\users\caio\documents\visual studio 2013\Projects\foolytrans\foolytrans\obj\Debug\foolytrans.pdb
